@@ -5,6 +5,8 @@ Project results and exercise hand ins for the course "Advanced scientific progra
 
 ### Introduction
 
+My research is focused on ultra high-energy neutrino detection. The signals of these elemetrary particles results in a voltage amplitude trace for multiple detectors. From these voltages I'm reconstructing the energy, direction an flavor of the original neutrino using deep neural networks.  
+
 ### Project Specifications
 
 
