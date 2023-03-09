@@ -14,6 +14,7 @@ In my project, I want to focus on refactoring the existing script to be more fle
 
 
 ## Exercise 1)
+https://github.com/nilsphysics/ASPP/tree/main/ex1
 
 ## Exercise 2)
 
