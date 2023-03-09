@@ -17,9 +17,13 @@ In my project, I want to focus on refactoring the existing script to be more fle
 https://github.com/nilsphysics/ASPP/tree/main/ex1
 
 ## Exercise 2)
+https://github.com/nilsphysics/ASPP/tree/main/ex2
 
 ## Exercise 3)
+https://github.com/nilsphysics/ASPP/tree/main/ex3
 
 ## Exercise 4)
+https://github.com/nilsphysics/ASPP/tree/main/ex4
 
 ## Exercise 5)
+https://github.com/nilsphysics/ASPP/tree/main/ex5
